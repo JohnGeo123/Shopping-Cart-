@@ -31,7 +31,7 @@ This application is a simple web-based shopping cart built using HTML, CSS, and 
 
 ## Usage:
 
-1. Clone the repository: git clone https://github.com/your-username/shopping-cart.git
+1. Clone the repository: git clone https://github.com/JohnGeo123/Shopping-Cart.git
 2. Open the index.html file: Open the index.html file in a web browser.
 3. Add products: Enter the product name and quantity, and click the "Add to Cart" button.
 4. Modify quantities: Click the "+" or "-" buttons to increase or decrease the quantity of a product.
